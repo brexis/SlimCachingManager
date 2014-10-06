@@ -1,0 +1,21 @@
+{
+    "name": "brexis/slim-caching-manager",
+    "type": "library",
+    "description": "SlimCachingManager helps you to simplify caching and the delivery of the cached data of the Slim Framework resources",
+    "keywords": ["slim","caching","http"],
+    "homepage": "https://github.com/brexis/SlimCachingManager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Boris Koumondji",
+            "email": "brexis2009@yahoo.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "slim/slim": "2.3.0"
+    },
+    "autoload": {
+        "psr-0": { "": "." }
+    }
+}
